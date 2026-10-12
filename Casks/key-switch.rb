@@ -1,6 +1,6 @@
 cask "key-switch" do
-  version "0.7.1"
-  sha256 "2162abaf6d0f3c6f428b073eb41dbf3cecc91a78ffcc57e65877d271245baa85"
+  version "0.8.0"
+  sha256 "ce3bbfef7ae6af15d5b416a7bda3ab70967442b885ab501946791f6d9a3e4c51"
 
   url "https://github.com/andrewkomkov/key-switch/releases/download/v#{version}/KeySwitch.zip"
   name "KeySwitch"
